@@ -18,5 +18,6 @@ A Python-based desktop application that provides real-time weather information u
 ## 🛠️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Weather_Forecast_App.git
+   git clone https://github.com/Mitodru2002/Weather_Forecast_App.git
    cd Weather_Forecast_App
+
